@@ -1,0 +1,56 @@
+/* header {
+    background-image: url(https://i.pinimg.com/originals/85/29/94/852994f8cc8d6ca7b67ddd84e975a2f8.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 700px;
+} */
+body{
+    background-color: rgb(37, 66, 66);
+    scroll-behavior: smooth;
+}
+ header ul{text-align: end;
+    list-style: none;
+} 
+
+h{
+    font-style: italic;
+}
+ ul li {
+    display: inline-block;
+} 
+
+/* .container-fluid {
+    position: relative;
+} */
+
+/* .img1 {
+    position: absolute;
+}*/
+/* .a1{
+    position: relative;
+}  */
+.card{
+    display: inline-;
+    font-size: larger;
+    color: brown;
+    border: 0rem;
+    padding: auto;
+}
+
+/* .secondul {
+    list-style-type: lower-alpha;
+} */
+/* 
+#gruop{
+    justify-items: center;
+    margin-left: 100px;
+} */
+.card1{
+   justify-items: center;
+    width: 400px;
+    margin-left: 120px;
+}
+
+.foot:hover{
+     transform: scale(1.9);
+}
